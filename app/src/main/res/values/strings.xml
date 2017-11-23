@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="InsertName">Insert Name</string>
+    <string name="HBDT">Happy Birthday To</string>
+    <string name="AndroidNougat">Android Nougat</string>
+    <string name="JFY">JUST FOR YOU</string>
+</resources>
